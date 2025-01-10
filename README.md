@@ -32,30 +32,29 @@ ________________________________________________________________________________
 Contains:
 
 Cloth:
-- sax_Glasses1					Zusätzlich
-- sax_Glasses2					Zusätzlich
-- sax_Glasses3					Zusätzlich
-- sax_CanvasBag_hdz				Zusätzlich
-- sax_Tshirt_hsb				Zusätzlich
-- sax_Tshirt_batik				Zusätzlich
-- sax_Tshirt_gws				Zusätzlich
-- sax_hoodie_diam				Zusätzlich
-- sax_hoodie_bass				Zusätzlich
-- sax_punkjacket				Zusätzlich
-- sax_securityjacket				Zusätzlich
-- sax_shirt					Zusätzlich
-- sax_MCjacket					Zusätzlich
-- sax_BoonieHat					Zusätzlich
-- sax_BaseballCap				Zusätzlich
-- sax_BaseballCap2				Zusätzlich
-- sax_BaseballCap3				Zusätzlich
-- sax_Jagerhut					Zusätzlich
+- sax_Glasses1					Zusätzlich egal wo
+- sax_Glasses2					Zusätzlich egal wo
+- sax_Glasses3					Zusätzlich egal wo
+- sax_CanvasBag_hdz				Zusätzlich egal wo
+- sax_Tshirt_hsb				Zusätzlich egal wo
+- sax_Tshirt_batik				Zusätzlich egal wo
+- sax_Tshirt_gws				Zusätzlich egal wo
+- sax_hoodie_diam				Zusätzlich egal wo
+- sax_hoodie_bass				Zusätzlich egal wo
+- sax_punkjacket				Zusätzlich egal wo
+- sax_securityjacket				Zusätzlich egal wo
+- sax_shirt					Zusätzlich egal wo
+- sax_MCjacket					Zusätzlich egal wo
+- sax_BoonieHat					Zusätzlich egal wo
+- sax_BaseballCap				Zusätzlich egal wo
+- sax_BaseballCap2				Zusätzlich egal wo
+- sax_BaseballCap3				Zusätzlich egal wo
+- sax_Jagerhut					Zusätzlich bei Jagdloot
 - sax_PoliceCap					Ersetzt: PoliceCap
 - sax_PoliceJacket				Ersetzt: PoliceJacket & PoliceJacketOrel
 - sax_PolicePants				Ersetzt: PolicePants & PolicePantsOrel
 - sax_PoliceVest				Ersetzt: PoliceVest
-
-								AB HIER BUNDESWEHRKLEIDUNG	ALLE VANILLA MILITÄRKLEIDUNG AN EVENTS?
+Ab hier kommen Bundeswehr Militärklamotten:
 - sax_Barett_green
 - sax_Barett_red
 - sax_Barett_black
@@ -142,19 +141,20 @@ Food:
 - sax_Sauerkraut				Ersetzt: PowderedMilk & Pajka
 
 MISC:
-- sax_Gartenzwerg
-- sax_Steuer
+- sax_Gartenzwerg				Zusätzlich egal wo
+- sax_Steuer					Zusätzlich egal wo
 
 TOOLS:
 - sax_KM2000					Ersetzt: CombatKnife
-- sax_Brush
+- sax_Brush					Zusätzlich egal wo
 
 WEAPONS:
-- sax_HK416
-- sax_Uzi
-- sax_Mag_Uzi_32Rnd
+- sax_HK416					so ab T3 mili?
+- sax_Uzi					so ab T2 mili?
+- sax_Mag_Uzi_32Rnd				so ab T1 mili?
 
 FLAGS:
+Ich würd die vanillaflaggen rausnehmen und die sax flaggen stattdessen spawnen
 - Flag_saxAngler
 - Flag_saxChem
 - Flag_saxBRD
