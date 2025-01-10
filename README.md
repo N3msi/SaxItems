@@ -5,16 +5,27 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
 Berk Gedik for: https://sketchfab.com/3d-models/free-sunglasses-set-lowpoly-2fd738be560d4d07b83bc4a3ab97c0c9 CCA
+
 gelmi.com.br for: https://sketchfab.com/3d-models/beer-bottle-c3de7f8b092e4092aef14d4ffc9fac7f CCA
+
 Tremolo_1404_ for: https://sketchfab.com/3d-models/re4-uhd-krauser-without-shirt-with-vest-3d-model-64582bf32c7244ada8ab65f3ca176e24 CCA
+
 kyuukonneko for: https://sketchfab.com/3d-models/documents-e7ad0b118ffe4ff5bdaf0721d7ea0998 CCA
+
 creationwasteland for: https://sketchfab.com/3d-models/uzi-fde60adc8aff4c61b6a8bea1f9e0743f CCA
+
 third construct for: https://sketchfab.com/3d-models/game-res-us-army-jacket-5645433aa729429f9b60aa33bb921bdd CCA
+
 SCANIMATE.IO for: https://sketchfab.com/3d-models/pb51-old-cap-md-1c4511db9d6e4f4997ba054a864f927e CCA
+
 gorzi for: https://sketchfab.com/3d-models/bathroom-accesories-1103528bef074721a5a54d1a60ea56ab CCA
+
 Dmitry_Nzh for: https://sketchfab.com/3d-models/salami-sausage-c326530b4268432980ddd40f1e496226 CCA
+
 tris_blend for: https://sketchfab.com/3d-models/km-2000-pbrgr-d57e04941cfd45e2be1427c77fea7155 CCA NC
+
 halloweeks for: https://sketchfab.com/3d-models/hk416-4bdb0ab5effd4474a5984c68b0a0c762 CCA
+
 Starkster for: https://sketchfab.com/3d-models/colgate-toothpaste-tube-3a77c506eaea4e08a10f1d288d2ce45d CCA
 
 Contains:
