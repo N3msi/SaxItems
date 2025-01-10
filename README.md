@@ -28,6 +28,7 @@ halloweeks for: https://sketchfab.com/3d-models/hk416-4bdb0ab5effd4474a5984c68b0
 
 Starkster for: https://sketchfab.com/3d-models/colgate-toothpaste-tube-3a77c506eaea4e08a10f1d288d2ce45d CCA
 
+________________________________________________________________________________________________________________________________________
 Contains:
 
 Cloth:
@@ -41,8 +42,8 @@ Cloth:
 - sax_hoodie_diam				Zusätzlich 
 - sax_hoodie_bass				Zusätzlich 
 - sax_punkjacket				Zusätzlich 
-- sax_securityjacket			Zusätzlich 
-- sax_shirt						Zusätzlich 
+- sax_securityjacket				Zusätzlich 
+- sax_shirt					Zusätzlich 
 - sax_MCjacket					Zusätzlich 
 - sax_BoonieHat					Zusätzlich 
 - sax_BaseballCap				Zusätzlich 
@@ -105,39 +106,39 @@ Cloth:
 - sax_bwTshirt
 
 Food:
-- sax_Chips						Ersetzt: Chips
+- sax_Chips					Ersetzt: Chips
 - sax_Schoki					Ersetzt: Zagorky & Lunchmeat
 - sax_Schoki2					Ersetzt: ZagorkyChocolate
-- sax_senf						Ersetzt: ZagorkyPeanuts & Pate
+- sax_senf					Ersetzt: ZagorkyPeanuts & Pate
 - sax_tomatenmark				Ersetzt: SardinesCan
 - sax_WaterBottle				Ersetzt: WaterBottle	
 - sax_Leberwurst				Ersetzt: TunaCan
-- sax_Leberwurst_Opened			Ersetzt: TunaCan_Opened
+- sax_Leberwurst_Opened				Ersetzt: TunaCan_Opened
 - sax_Eiersalat					Ersetzt: CatFoodCan
-- sax_Eiersalat_Opened			Ersetzt: CatFoodCan_Opened
+- sax_Eiersalat_Opened				Ersetzt: CatFoodCan_Opened
 - sax_Sterni					Ersetzt: SaltySticks
 - sax_Malzbier					Ersetzt: SodaCan_Cola
 - sax_Kostitzer					Ersetzt: SodaCan_Fronta
-- sax_Maggi						Ersetzt: SodaCan_Kvass
-- sax_Spezi						Ersetzt: SodaCan_Pipsi
-- sax_Hasso						Ersetzt: SodaCan_Spite
-- sax_cola						Ersetzt: BrisketSpread
+- sax_Maggi					Ersetzt: SodaCan_Kvass
+- sax_Spezi					Ersetzt: SodaCan_Pipsi
+- sax_Hasso					Ersetzt: SodaCan_Spite
+- sax_cola					Ersetzt: BrisketSpread
 - sax_SKSaft					Ersetzt: CrabCan
-- sax_Kartoffelsuppe			Ersetzt: SpaghettiCan
-- sax_Kartoffelsuppe_Opened		Ersetzt: SpaghettiCan_Opened
+- sax_Kartoffelsuppe				Ersetzt: SpaghettiCan
+- sax_Kartoffelsuppe_Opened			Ersetzt: SpaghettiCan_Opened
 - sax_Huhnersuppe				Ersetzt: BakedBeansCan
-- sax_Huhnersuppe_Opened		Ersetzt: BakedBeansCan_Opened
+- sax_Huhnersuppe_Opened			Ersetzt: BakedBeansCan_Opened
 - sax_Dosenbrot					Ersetzt: TacticalBaconCan
-- sax_Dosenbrot_Opened			Ersetzt: TacticalBaconCan_Opened
+- sax_Dosenbrot_Opened				Ersetzt: TacticalBaconCan_Opened
 - sax_ToteOma					Ersetzt: PeachesCan
-- sax_ToteOma_Opened			Ersetzt: PeachesCan_Opened
+- sax_ToteOma_Opened				Ersetzt: PeachesCan_Opened
 - sax_OssiNudeln				Ersetzt: PorkCan
-- sax_OssiNudeln_Opened			Ersetzt: PorkCan_Opened
+- sax_OssiNudeln_Opened				Ersetzt: PorkCan_Opened
 - sax_Salami					Ersetzt: SpaghettiCan
 - sax_Brezel					Ersetzt: DogFoodCan & Marmalade
 - sax_Bockwurst					Ersetzt: Honey
 - sax_Vogelfutter				Ersetzt: Rice
-- sax_Musli						Ersetzt: BoxCerealCrunchin 
+- sax_Musli					Ersetzt: BoxCerealCrunchin 
 - sax_Sauerkraut				Ersetzt: PowderedMilk & Pajka
 
 MISC:
