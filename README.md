@@ -32,24 +32,24 @@ ________________________________________________________________________________
 Contains:
 
 Cloth:
-- sax_Glasses1					Zusätzlich 
-- sax_Glasses2					Zusätzlich 
-- sax_Glasses3					Zusätzlich 
-- sax_CanvasBag_hdz				Zusätzlich 
-- sax_Tshirt_hsb				Zusätzlich 
-- sax_Tshirt_batik				Zusätzlich 
-- sax_Tshirt_gws				Zusätzlich 
-- sax_hoodie_diam				Zusätzlich 
-- sax_hoodie_bass				Zusätzlich 
-- sax_punkjacket				Zusätzlich 
-- sax_securityjacket				Zusätzlich 
-- sax_shirt					Zusätzlich 
-- sax_MCjacket					Zusätzlich 
-- sax_BoonieHat					Zusätzlich 
-- sax_BaseballCap				Zusätzlich 
-- sax_BaseballCap2				Zusätzlich 
-- sax_BaseballCap3				Zusätzlich 
-- sax_Jagerhut					Zusätzlich 
+- sax_Glasses1					Zusätzlich
+- sax_Glasses2					Zusätzlich
+- sax_Glasses3					Zusätzlich
+- sax_CanvasBag_hdz				Zusätzlich
+- sax_Tshirt_hsb				Zusätzlich
+- sax_Tshirt_batik				Zusätzlich
+- sax_Tshirt_gws				Zusätzlich
+- sax_hoodie_diam				Zusätzlich
+- sax_hoodie_bass				Zusätzlich
+- sax_punkjacket				Zusätzlich
+- sax_securityjacket				Zusätzlich
+- sax_shirt					Zusätzlich
+- sax_MCjacket					Zusätzlich
+- sax_BoonieHat					Zusätzlich
+- sax_BaseballCap				Zusätzlich
+- sax_BaseballCap2				Zusätzlich
+- sax_BaseballCap3				Zusätzlich
+- sax_Jagerhut					Zusätzlich
 - sax_PoliceCap					Ersetzt: PoliceCap
 - sax_PoliceJacket				Ersetzt: PoliceJacket & PoliceJacketOrel
 - sax_PolicePants				Ersetzt: PolicePants & PolicePantsOrel
@@ -58,7 +58,7 @@ Cloth:
 								AB HIER BUNDESWEHRKLEIDUNG	ALLE VANILLA MILITÄRKLEIDUNG AN EVENTS?
 - sax_Barett_green
 - sax_Barett_red
-- sax_Barett_black: 
+- sax_Barett_black
 - sax_UKAssVest_flecktarn
 - sax_UKAssVest_tropic
 - sax_UKAssVest_winter
@@ -111,7 +111,7 @@ Food:
 - sax_Schoki2					Ersetzt: ZagorkyChocolate
 - sax_senf					Ersetzt: ZagorkyPeanuts & Pate
 - sax_tomatenmark				Ersetzt: SardinesCan
-- sax_WaterBottle				Ersetzt: WaterBottle	
+- sax_WaterBottle				Ersetzt: WaterBottle
 - sax_Leberwurst				Ersetzt: TunaCan
 - sax_Leberwurst_Opened				Ersetzt: TunaCan_Opened
 - sax_Eiersalat					Ersetzt: CatFoodCan
